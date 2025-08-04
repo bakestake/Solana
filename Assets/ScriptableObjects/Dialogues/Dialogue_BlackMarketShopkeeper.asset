@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: Dialogue_BlackMarketShopkeeper
+  m_EditorClassIdentifier: 
+  isRandom: 1
+  messages:
+  - actorId: 0
+    message: Welcome to the shop! Ready to spend in style today?
+  - actorId: 0
+    message: "Looking for the perfect seeds? I\u2019ve got just what you need!"
+  - actorId: 0
+    message: "Hop on in! We\u2019ve got supplies for everything!"
+  actors:
+  - Name: Pablo
+    sprite: {fileID: 0}
+    color: {r: 0.35686275, g: 0.23137255, b: 0.07450981, a: 1}

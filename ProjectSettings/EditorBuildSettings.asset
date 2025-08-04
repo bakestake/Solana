@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: aac8a3cf2f3d84e7b98ca966b7be0c78
+  - enabled: 1
+    path: Assets/Scenes/Game-Singleplayer.unity
+    guid: 67404ba2e56ae5948be4564f4410b98a
+  - enabled: 0
+    path: Assets/Scenes/Interior/Cave.unity
+    guid: fd2d872222e19ad46937673b1b4a09fb
+  - enabled: 0
+    path: Assets/Scenes/Interior/BikeShop.unity
+    guid: 9e13821ef394fbc4684706ddcb1aa677
+  - enabled: 0
+    path: Assets/Scenes/Interior/RamenShop.unity
+    guid: 892a74c28f1776b4f9e87e9c7f497a95
+  - enabled: 0
+    path: Assets/Resources/Quests/RamenDelivery/RamenDeliveryObstacles.unity
+    guid: 1b625f55aea471f488173946a3d53d5c
+  - enabled: 1
+    path: Assets/Scenes/Interior/SolanaHub.unity
+    guid: 037e44159bc669a4cbd2ecde93462735
+  - enabled: 1
+    path: Assets/Scenes/Interior/HoneyJar.unity
+    guid: 0806b92fa7625a643849a62cb683a0c4
+  - enabled: 0
+    path: Assets/Scenes/Interior/Pyramid.unity
+    guid: e72f8901a4d878d4b91b4da00a024ab2
+  - enabled: 0
+    path: Assets/Scenes/Interior/WormHole HQ.unity
+    guid: c89382efaea26cd41bd49f35032ccd87
+  - enabled: 0
+    path: Assets/Scenes/FracturedRealms/Void.unity
+    guid: f1409b1cebf0cb048866cb080ab79344
+  - enabled: 0
+    path: Assets/Scenes/FracturedRealms/Arbitrum.unity
+    guid: ccc64bdf0a68f584db4990316d83992f
+  - enabled: 0
+    path: Assets/Scenes/FracturedRealms/Avalanche.unity
+    guid: b7d80862ebccd6c459dc32c18ce688c1
+  - enabled: 0
+    path: Assets/Scenes/FracturedRealms/Base.unity
+    guid: fa21a7e6e73932a4aa24aaa00d71f910
+  - enabled: 0
+    path: Assets/Scenes/FracturedRealms/Monad.unity
+    guid: 4df176fb27cfc93418ae062dca1e24ce
+  - enabled: 0
+    path: Assets/Scenes/FracturedRealms/Binance.unity
+    guid: 8a3638e12ae52464aaf107b79b4cc024
+  - enabled: 0
+    path: Assets/Scenes/FracturedRealms/Solana.unity
+    guid: c47c6322e38d1a44198906963b5a6df1
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 2eff6ead89773364ab058d23736c43e0, type: 2}

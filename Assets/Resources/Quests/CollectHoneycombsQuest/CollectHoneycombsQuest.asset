@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 294185b0eafd7954bb208b6f004d2616, type: 3}
+  m_Name: CollectHoneycombsQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: CollectHoneycombsQuest
+  <uid>k__BackingField: 2
+  displayName: The Honey Mead
+  questStartDialogue: {fileID: 11400000, guid: 0f724a67a6f122f439161cf68afeacef, type: 2}
+  questProgressDialogue: {fileID: 11400000, guid: 6af30e0f97edbb64097e9b298a62c525, type: 2}
+  questFinishDialogue: {fileID: 11400000, guid: 8f82f2283f90bd345b645f245639b2e9, type: 2}
+  questPrerequisites:
+  - {fileID: 11400000, guid: 3a2bba51f7dafa84aa30ce026468cf4f, type: 2}
+  questStepPrefabs:
+  - {fileID: 6247293221038370936, guid: 504d231e0ceca61498c3f64d67357297, type: 3}
+  goldReward: 2000
+  itemReward: {fileID: 11400000, guid: 6730af103e04d8a46ab43c168b57b184, type: 2}
+  itemRewardAmount: 1
+  itemDelete: {fileID: 11400000, guid: ec20eb01e34a42c4184046fe872fa8fc, type: 2}
+  itemDeleteAmount: 15

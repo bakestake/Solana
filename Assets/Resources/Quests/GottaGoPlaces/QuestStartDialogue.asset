@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: QuestStartDialogue
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  advancePerInteraction: 0
+  messages:
+  - actorId: 0
+    message: What's up, newcomer!?
+  - actorId: 0
+    message: You look a little lost. I'm Puff... Puff the Bear. And I'm here to show
+      you around this amusing little place we call home.
+  - actorId: 0
+    message: Don't worry, man, we'll take it nice and slow... Just how I like it.
+  - actorId: 0
+    message: "First things first, right here is the farm where we grow some of the
+      finest plants around. If you\u2019ve got what it takes, you can even grow your
+      own dank buds."
+  - actorId: 0
+    message: Now follow me down to the plot so we can get started on this new piece
+      of the land.
+  actors:
+  - Name: Puff the Bear
+    sprite: {fileID: 0}
+    color: {r: 0.32156864, g: 0.32156864, b: 0.32156864, a: 1}

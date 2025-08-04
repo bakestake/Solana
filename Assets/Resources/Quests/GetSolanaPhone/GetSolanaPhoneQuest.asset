@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 294185b0eafd7954bb208b6f004d2616, type: 3}
+  m_Name: GetSolanaPhoneQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: GetSolanaPhoneQuest
+  <uid>k__BackingField: 4
+  displayName: Get Solana Phone
+  questStartDialogue: {fileID: 11400000, guid: e9b1376c5a67c0b4589d290d7588d7cb, type: 2}
+  questProgressDialogue: {fileID: 11400000, guid: 844640189dad017479b9e60890fe008a, type: 2}
+  questFinishDialogue: {fileID: 11400000, guid: c7324620bca499644a4d606a35b14fbf, type: 2}
+  questPrerequisites: []
+  questStepPrefabs:
+  - {fileID: 6247293221038370936, guid: 5bf2ca18d94ef934d88b229eb1a9fa9b, type: 3}
+  goldReward: 0
+  itemReward: {fileID: 11400000, guid: 7d9e8c8d010741d4fb80bb781ef85dd1, type: 2}
+  itemRewardAmount: 1
+  itemDelete: {fileID: 0}
+  itemDeleteAmount: 0

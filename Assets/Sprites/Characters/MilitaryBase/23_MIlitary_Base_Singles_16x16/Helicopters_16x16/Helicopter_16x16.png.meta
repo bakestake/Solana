@@ -1,0 +1,3992 @@
+fileFormatVersion: 2
+guid: b72a3c0593f1f1b4ca0094fdc413ead7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Helicopter_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e5314f87625b64e95c95a29599f538
+      internalID: 1253876033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1152
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4257f54cd03709d4f9e9c4396d0ea9bd
+      internalID: 1735755140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1152
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bde1369b5b00543bdd6732d5812033
+      internalID: 1453495226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1152
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad198ef36a1bea46bb340b3933a1e24
+      internalID: 2086996576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cc8d6e8e8a0194aae26b629ffca2d1
+      internalID: 1785053085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434a88dbf7ba17f4c8a9768f93a37132
+      internalID: 1341227854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4a5f3344fd8484f976865f21ce4e2f
+      internalID: -1528102708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63c24fa888cf848aa92f84c1291c47
+      internalID: -518964993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f339b4bbe76bf043a533061d54af7ed
+      internalID: -844268738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28e27b361b0a74e83b478b11d8b904
+      internalID: 93940077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c1709f08e237543a4c50a302163a7c
+      internalID: -1467598122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75543b249b6011499a44158998d4814
+      internalID: 523116434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c449a9ded1a3243af9625ffff8afe2
+      internalID: -1421573728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb3fb283ecd1034a8373ca961dc8ca7
+      internalID: -2030528949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c5c3f240093c45bc6e021b98976d3
+      internalID: -1833291008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ec613b2683ec498b479dbcec78d90
+      internalID: -1356274294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3984ec6ea875ff4ab440b8bc71e0698
+      internalID: -1546185573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73619fd33d8778344a1046c85c7e978b
+      internalID: 1531940265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcbcbd37af98a04e880e001aa196026
+      internalID: 186080980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c5216046b04a4bbd3d39a3368e8fc
+      internalID: -1271040005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43345bac4f292b49bc20ded0bae5332
+      internalID: 80142707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b2746eba33bd46b22c705ffb46db3
+      internalID: -560454813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2756ffc5a85994dac8ee741f4e14b3
+      internalID: 2130441764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cba92d30da4d0418d1fdc1e15925b1
+      internalID: -1272095905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c11ae4abb43d404b995ab98b3ff2582
+      internalID: 1911573251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd98ca8b882e5498477ceab4326cf3
+      internalID: 2077757196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 6688
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab73caff3da174942b1f121d1f246e07
+      internalID: 263358946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 6992
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d0f3814366d8a4485d071c2088c06d
+      internalID: -2003999403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f0078ec50b15441bbe147f2bebca99
+      internalID: 1091548394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee9e6bd0d285db4abc19fb4bc106ef3
+      internalID: -1568046617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 7904
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad975a9869f9ca448adf27e4b60628ca
+      internalID: -412033017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 8208
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152a243585690db408cf54aaed43f62f
+      internalID: -1912336557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61ff1d7f32008742bb9b9176a65fda0
+      internalID: 1142305760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 8816
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2746f44b0371047b432cb5a5d848d9
+      internalID: -1668496814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ae0c8b8cd2ddc4380248dabddf8797
+      internalID: 1118586591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 9424
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d0ef2e83c174c49a4a22e1de949a25
+      internalID: 1790631934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c01228667fd6408779a01c964e28a
+      internalID: 1090501203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 10032
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abb96434395f06459d4b3deb1227604
+      internalID: 1248835055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 10336
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7400c69754e6646a92e39e6caf97e7
+      internalID: -1406896938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 10640
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c230dc85ed58674fb276fccedea101d
+      internalID: -1103704131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb80092b44a26d5499bb5eeef2ea26c3
+      internalID: -382403839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 11248
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058b4946d1051c649b29b5eb8a43c1a4
+      internalID: 1485522424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 11552
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e39c577503e544281bf59c36f45949
+      internalID: -305276345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 11856
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17962d64f61b045498a68216f8b7f39c
+      internalID: 456488264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df532446091231b489b5340418e0dfc4
+      internalID: 365520712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 12464
+        y: 864
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722a87b81fde2a440a7220327a23c532
+      internalID: -1429940323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d97ec3288112a4db52d411f997ab15
+      internalID: 1173226509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af7bc511747c26489524e99925df550
+      internalID: 180720688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39945efe83a886442b9f05db5841c1b9
+      internalID: 1901471992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a04e860a2aa99249b3655dc9cf4486c
+      internalID: 1412066973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ef1f63408c1f4b888d7bacc813609
+      internalID: 336031743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d40e4c37f2b2eb4c9ca32268010e72b
+      internalID: -1548733118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b323ebf355a694baf48c1c338f5da8
+      internalID: -2091938127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b54d04646a64bb49a81d8f0934b4269
+      internalID: -1001554309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88711e47a84b3fe48841bf9357646a39
+      internalID: 1125674687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2581d8cbf04833548b58c2771253811b
+      internalID: -1796762460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7960b875c4b3af34b83ce0ecb28048aa
+      internalID: -1192459429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837de7010ed0d3742b5e0d0a99d6765c
+      internalID: -626597125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc6a0c44a0a759418f407fa1b586070
+      internalID: -1387403994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f5422f6ad4c874c8cf47e532f14af4
+      internalID: -1652628395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3f76da5787904884270aa45bf90fc
+      internalID: -2118351039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b31b5f90b64db46b22ea99e0ae5b14
+      internalID: 351374491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0baca65c204f8a44b00b34f269ae531
+      internalID: -840288951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c39928ac8bf646b6aa9d19dabb181
+      internalID: 108132960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab631150a68d71438ab399609ce2b2c
+      internalID: 2061145399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a7f06bfd7ad742a31814e5ce3f0bf
+      internalID: 2115339950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd1eb298f236db42846788cbe177928
+      internalID: -386890141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430affa746040be4fa80038f34562a25
+      internalID: 1129442400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 6688
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43afa199e5db64d9d83c72432a35bd
+      internalID: 1717279747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 6992
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a08ddf674dd46479c10ac5aac43d61
+      internalID: -1757072246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852fd84e4298cf48972a65f66d8ede8
+      internalID: 1297618703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893d8ec4226a9e040b62f983100d411d
+      internalID: -1178428421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 7904
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fcf03f84e97604b8bfd9edf6583a20
+      internalID: -1338640332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 8208
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56222d0238a94ec4b8ace42b5f8dd563
+      internalID: -719256312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f9ca38991146148be3e81f0542cc13
+      internalID: 2138421914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 8816
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e9248ecddf0ba498eb97f7ad19105e
+      internalID: -1708458532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2b079e5ec5a794d83eea9fbad8ce80
+      internalID: 1969815861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 9424
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1808102826d14da9c93498f83fdb8
+      internalID: -1875769708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65f67aa5773095439385648674d0cf3
+      internalID: -288732997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 10032
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dcbc5f3f7f7e443a43bb50fd8e4a82
+      internalID: -1893080259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 10336
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5407eeec622293c4e8cd8a7466f48131
+      internalID: 1150294935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 10640
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6555d7f68a6b64587499e54938b34d
+      internalID: 1505518764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729c37a4beb078145be9552ba6513ebf
+      internalID: 716682059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 11248
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7522fe64c0e5cbb4899682480341e6fb
+      internalID: -2083509769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 11552
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330bbc6085568784788c86dec69399b8
+      internalID: -2098019496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 11856
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c06bbc341b180247b3169a4d4ddeed0
+      internalID: 1968501798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27db49ed20033f44ea6b0a34c9bbddc9
+      internalID: 620553042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 12464
+        y: 576
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080ee860edfe7ee4db8628dcba850b86
+      internalID: 2085047316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b637ee0a5e80941a50a99cc94383c7
+      internalID: -526604736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_131
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c7ca4825370a418906c52391fab8d
+      internalID: -649475698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_132
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f276b356e1584ebc59438f40a71b1
+      internalID: -1016375242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_133
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482ba511ae33cee488492e3c9cce3c98
+      internalID: 2031454783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_134
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffb9f7d7f0af874fb6498b579cd7031
+      internalID: 1428007942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_135
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382acc7803a2a0b4b8836f9e272e32ad
+      internalID: -75319854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_136
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f348a3986b0374bb757614fc158ba8
+      internalID: -642758624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_137
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f2ef312976ca142855202365e24b9c
+      internalID: 1783883132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_138
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88837fb086bc63a4d9688d4d10c810f1
+      internalID: 549343736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_139
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b5b9a95e6b7b34ba178413214d564d
+      internalID: -1234097581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_140
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12910ae4313a498449bfa01b0cecb14b
+      internalID: -1803745590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_141
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd7b38fa737ed045b0d1f228bcfbe6e
+      internalID: 466154576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_142
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a009abb06169342a45a56796119d0f
+      internalID: -555985871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_143
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7651f6d01d150f408e377fa5a158631
+      internalID: 2004667390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_144
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dfc6c44746cc44f8e724b06b78117e
+      internalID: -777336955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_145
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a23a7ee5fa4bc4dba035c2c10d5984
+      internalID: -328718959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_146
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224fcd02a6d1e8f4cad507f2db7da001
+      internalID: -1336314703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_147
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f09952f12aab41b764ccedd5530ca
+      internalID: 520600236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_148
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98f5002fbddea4099d5c8c114edd03
+      internalID: -1963495517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_149
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4d49f920356164bb5ada76a56fbd0b
+      internalID: -1598477911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_150
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6783ad2f69b9b940af813a35d39771b
+      internalID: 1847170677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_151
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382646632fb8a5e4f8894057463e9457
+      internalID: -1269451998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_152
+      rect:
+        serializedVersion: 2
+        x: 6688
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563ce8e66298ff4898c7404e3644307
+      internalID: -1129224520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_153
+      rect:
+        serializedVersion: 2
+        x: 6992
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874cf0d958109fe47a6fc37f7ba70b2c
+      internalID: 1140785905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_154
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3857d4c9e3d7b1040bc3b0d03dd518e9
+      internalID: -826677854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_155
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463cae36d05befb45b913ab079c24a2a
+      internalID: 1288001831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_156
+      rect:
+        serializedVersion: 2
+        x: 7904
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dba07ef098e02148964e0a55b695bc6
+      internalID: 137823245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_157
+      rect:
+        serializedVersion: 2
+        x: 8208
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e76482f25ca2741a5238ae672014fa
+      internalID: 451382110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_158
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a6373b5cf00514b9e30bb7be07de74
+      internalID: 1879395397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_159
+      rect:
+        serializedVersion: 2
+        x: 8816
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b25f66bc059e3945b032947ae8903fa
+      internalID: -1003168374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_160
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833492426a9006e40b17d35ada73aab4
+      internalID: -1081844109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_161
+      rect:
+        serializedVersion: 2
+        x: 9424
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4674d72fa1014f64abcc20a7f01af682
+      internalID: 19084435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_162
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e20c358d1f2cf4f8fd5afbbcdc1e55
+      internalID: 1302171969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_163
+      rect:
+        serializedVersion: 2
+        x: 10032
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c80cd820b8484d97f07746f96b04d
+      internalID: -1951287967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_164
+      rect:
+        serializedVersion: 2
+        x: 10336
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345402215912874cb1bd46d90dbf18b
+      internalID: -1328536435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_165
+      rect:
+        serializedVersion: 2
+        x: 10640
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4cffd24d63a5445bb9d7f51c0ba3ea
+      internalID: 1862449962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_166
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9136d98c2e2eab4ba7a505d9ff4cd60
+      internalID: -771803583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_167
+      rect:
+        serializedVersion: 2
+        x: 11248
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df6ea6619c9630499b1ff1b23f0a56f
+      internalID: 1467447923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_168
+      rect:
+        serializedVersion: 2
+        x: 11552
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628924f68778d2541af5e4dcbe6eccce
+      internalID: 154487128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_169
+      rect:
+        serializedVersion: 2
+        x: 11856
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faabad6db5961034886741d34081c8da
+      internalID: 1807997972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_170
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62497fb70bcb33d4e949fd325d95fc57
+      internalID: -220437843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_171
+      rect:
+        serializedVersion: 2
+        x: 12464
+        y: 288
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c98cbc0546874f939574a1d8328c9
+      internalID: -108001770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a6335eddb9c44ba78c66a1c09ef62
+      internalID: -433582627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_173
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa0155341cbc8044bc8267795552042
+      internalID: 32746175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_174
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d712bc9de1f592a439e6d1a474f982a9
+      internalID: 67387439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_175
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f098d5ac0bbcf4987d6e529d1a1c96
+      internalID: 1614034975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_176
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d23ee8a66e7046a8ab1d0184a36ef
+      internalID: 1621218423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_177
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da72d22eee7a49449a81af2d30a9b5b
+      internalID: 191529129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_178
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb31b1736425dc419d9a74e4f93061e
+      internalID: 812160675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_179
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38a385372598c49a1e6db0533d5c09
+      internalID: -1686163153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_180
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81afe1795b04d1d4fa12a664c1008b50
+      internalID: -2000626350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_181
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23a89535bbb6d4fbb37a8123c67047
+      internalID: -330846882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_182
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d194627049a82e45b5c99976abfef58
+      internalID: -1747336657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_183
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c5313cb43e4d46889352bc511a988
+      internalID: -893807588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_184
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ddc093dd34ae44baa491868d99ee76
+      internalID: 1761594640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_185
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290fd765544858245b9de3dc84d5a6be
+      internalID: -54696682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_186
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99997a55cc21f6c468193cc588c48fb5
+      internalID: -1472998049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_187
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb574ba98d118f44d900562eb386dea7
+      internalID: 643162046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_188
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f2898e1b41f3c4b80d6801b98cdf5d
+      internalID: -1857337759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_189
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc520200561b96468657f04fe2bd94b
+      internalID: -1325988096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_190
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78991bc851200324ebbd916ad111584b
+      internalID: 435911605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_191
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b98d4703a081854c9e6755f5d0a118b
+      internalID: 2061794292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_192
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4deaf5f802ed4b866bac032d7866a
+      internalID: 792674070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_193
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c04c9f8f4c21a41bbb31e959a87c5b
+      internalID: -1393397305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_194
+      rect:
+        serializedVersion: 2
+        x: 6688
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f2423c7c0458d44b860b231ee45377
+      internalID: 500571453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_195
+      rect:
+        serializedVersion: 2
+        x: 6992
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f79488765c0de40aa2d00f1f768f43
+      internalID: 797504060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_196
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57951937b332a4bab6f406b5f25ffc
+      internalID: -1791599575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_197
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356e0f539db518b47a6dda664ac842fe
+      internalID: 1976416345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_198
+      rect:
+        serializedVersion: 2
+        x: 7904
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c93cd5300725d4ea687c676202470c
+      internalID: -262002852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_199
+      rect:
+        serializedVersion: 2
+        x: 8208
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4d7f32d154f7e4a985884737366456
+      internalID: 713528313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_200
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442fd24506df07b4f810df0cd0c8161d
+      internalID: -1337829502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_201
+      rect:
+        serializedVersion: 2
+        x: 8816
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999b591d7c1a8a4794aa4c470576904
+      internalID: -666640885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_202
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df817c20a373f5543bad1051f30d6dc9
+      internalID: 27354779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_203
+      rect:
+        serializedVersion: 2
+        x: 9424
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc1c68595ec4b04492e897e9db8d56f
+      internalID: 602374332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_204
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9239bbb44a1d46ac6a6a820d58b3d
+      internalID: 1453723622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_205
+      rect:
+        serializedVersion: 2
+        x: 10032
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bac4ca62cb22940933f6593a0b7a89
+      internalID: -588911405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_206
+      rect:
+        serializedVersion: 2
+        x: 10336
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ff959205e7a54489842fca494a79d4
+      internalID: -1337280252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_207
+      rect:
+        serializedVersion: 2
+        x: 10640
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3950284c8a0cc4abf0e347fb0d7272
+      internalID: 6452393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_208
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dab1cbacfc9b44a96e110b125cbfac
+      internalID: -1009122858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_209
+      rect:
+        serializedVersion: 2
+        x: 11248
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5a0c2cb2ffe66429d5104bfa125434
+      internalID: -2109285506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_210
+      rect:
+        serializedVersion: 2
+        x: 11552
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396c0177e9cc4d42a8a36804f262cd0
+      internalID: 291307354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_211
+      rect:
+        serializedVersion: 2
+        x: 11856
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d06cf2d518be4db985889a68c50f5
+      internalID: -1916021218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_212
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08f6d0997c2684c9835ec41812c1ef
+      internalID: 1616679336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_16x16_213
+      rect:
+        serializedVersion: 2
+        x: 12464
+        y: 0
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567ad7461b37b6409481583bc3097cc
+      internalID: 1544869360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Helicopter_16x16_0: 2125240616
+      Helicopter_16x16_1: 1225278674
+      Helicopter_16x16_10: 523831092
+      Helicopter_16x16_100: -1387403994
+      Helicopter_16x16_101: -1652628395
+      Helicopter_16x16_102: -2118351039
+      Helicopter_16x16_103: 351374491
+      Helicopter_16x16_104: -840288951
+      Helicopter_16x16_105: 108132960
+      Helicopter_16x16_106: 2061145399
+      Helicopter_16x16_107: 2115339950
+      Helicopter_16x16_108: -386890141
+      Helicopter_16x16_109: 1129442400
+      Helicopter_16x16_11: -680761619
+      Helicopter_16x16_110: 1717279747
+      Helicopter_16x16_111: -1757072246
+      Helicopter_16x16_112: 1297618703
+      Helicopter_16x16_113: -1178428421
+      Helicopter_16x16_114: -1338640332
+      Helicopter_16x16_115: -719256312
+      Helicopter_16x16_116: 2138421914
+      Helicopter_16x16_117: -1708458532
+      Helicopter_16x16_118: 1969815861
+      Helicopter_16x16_119: -1875769708
+      Helicopter_16x16_12: 1385482016
+      Helicopter_16x16_120: -288732997
+      Helicopter_16x16_121: -1893080259
+      Helicopter_16x16_122: 1150294935
+      Helicopter_16x16_123: 1505518764
+      Helicopter_16x16_124: 716682059
+      Helicopter_16x16_125: -2083509769
+      Helicopter_16x16_126: -2098019496
+      Helicopter_16x16_127: 1968501798
+      Helicopter_16x16_128: 620553042
+      Helicopter_16x16_129: 2085047316
+      Helicopter_16x16_13: -467597138
+      Helicopter_16x16_130: -526604736
+      Helicopter_16x16_131: -649475698
+      Helicopter_16x16_132: -1016375242
+      Helicopter_16x16_133: 2031454783
+      Helicopter_16x16_134: 1428007942
+      Helicopter_16x16_135: -75319854
+      Helicopter_16x16_136: -642758624
+      Helicopter_16x16_137: 1783883132
+      Helicopter_16x16_138: 549343736
+      Helicopter_16x16_139: -1234097581
+      Helicopter_16x16_14: 1390104924
+      Helicopter_16x16_140: -1803745590
+      Helicopter_16x16_141: 466154576
+      Helicopter_16x16_142: -555985871
+      Helicopter_16x16_143: 2004667390
+      Helicopter_16x16_144: -777336955
+      Helicopter_16x16_145: -328718959
+      Helicopter_16x16_146: -1336314703
+      Helicopter_16x16_147: 520600236
+      Helicopter_16x16_148: -1963495517
+      Helicopter_16x16_149: -1598477911
+      Helicopter_16x16_15: -294738075
+      Helicopter_16x16_150: 1847170677
+      Helicopter_16x16_151: -1269451998
+      Helicopter_16x16_152: -1129224520
+      Helicopter_16x16_153: 1140785905
+      Helicopter_16x16_154: -826677854
+      Helicopter_16x16_155: 1288001831
+      Helicopter_16x16_156: 137823245
+      Helicopter_16x16_157: 451382110
+      Helicopter_16x16_158: 1879395397
+      Helicopter_16x16_159: -1003168374
+      Helicopter_16x16_16: -775147648
+      Helicopter_16x16_160: -1081844109
+      Helicopter_16x16_161: 19084435
+      Helicopter_16x16_162: 1302171969
+      Helicopter_16x16_163: -1951287967
+      Helicopter_16x16_164: -1328536435
+      Helicopter_16x16_165: 1862449962
+      Helicopter_16x16_166: -771803583
+      Helicopter_16x16_167: 1467447923
+      Helicopter_16x16_168: 154487128
+      Helicopter_16x16_169: 1807997972
+      Helicopter_16x16_17: -1330042054
+      Helicopter_16x16_170: -220437843
+      Helicopter_16x16_171: -108001770
+      Helicopter_16x16_172: -433582627
+      Helicopter_16x16_173: 32746175
+      Helicopter_16x16_174: 67387439
+      Helicopter_16x16_175: 1614034975
+      Helicopter_16x16_176: 1621218423
+      Helicopter_16x16_177: 191529129
+      Helicopter_16x16_178: 812160675
+      Helicopter_16x16_179: -1686163153
+      Helicopter_16x16_18: 1921251211
+      Helicopter_16x16_180: -2000626350
+      Helicopter_16x16_181: -330846882
+      Helicopter_16x16_182: -1747336657
+      Helicopter_16x16_183: -893807588
+      Helicopter_16x16_184: 1761594640
+      Helicopter_16x16_185: -54696682
+      Helicopter_16x16_186: -1472998049
+      Helicopter_16x16_187: 643162046
+      Helicopter_16x16_188: -1857337759
+      Helicopter_16x16_189: -1325988096
+      Helicopter_16x16_19: 730119817
+      Helicopter_16x16_190: 435911605
+      Helicopter_16x16_191: 2061794292
+      Helicopter_16x16_192: 792674070
+      Helicopter_16x16_193: -1393397305
+      Helicopter_16x16_194: 500571453
+      Helicopter_16x16_195: 797504060
+      Helicopter_16x16_196: -1791599575
+      Helicopter_16x16_197: 1976416345
+      Helicopter_16x16_198: -262002852
+      Helicopter_16x16_199: 713528313
+      Helicopter_16x16_2: -349941610
+      Helicopter_16x16_20: -1030174587
+      Helicopter_16x16_200: -1337829502
+      Helicopter_16x16_201: -666640885
+      Helicopter_16x16_202: 27354779
+      Helicopter_16x16_203: 602374332
+      Helicopter_16x16_204: 1453723622
+      Helicopter_16x16_205: -588911405
+      Helicopter_16x16_206: -1337280252
+      Helicopter_16x16_207: 6452393
+      Helicopter_16x16_208: -1009122858
+      Helicopter_16x16_209: -2109285506
+      Helicopter_16x16_21: -282949998
+      Helicopter_16x16_210: 291307354
+      Helicopter_16x16_211: -1916021218
+      Helicopter_16x16_212: 1616679336
+      Helicopter_16x16_213: 1544869360
+      Helicopter_16x16_22: -1891388602
+      Helicopter_16x16_23: 1792528470
+      Helicopter_16x16_24: 1917286292
+      Helicopter_16x16_25: 1912275776
+      Helicopter_16x16_26: 1832764372
+      Helicopter_16x16_27: -1966837667
+      Helicopter_16x16_28: -1283049234
+      Helicopter_16x16_29: 642036151
+      Helicopter_16x16_3: -751069337
+      Helicopter_16x16_30: -2009482210
+      Helicopter_16x16_31: -920158624
+      Helicopter_16x16_32: -462818231
+      Helicopter_16x16_33: -348629080
+      Helicopter_16x16_34: 1087972455
+      Helicopter_16x16_35: -1294021838
+      Helicopter_16x16_36: 1610437021
+      Helicopter_16x16_37: 1024058358
+      Helicopter_16x16_38: 71331739
+      Helicopter_16x16_39: 849491639
+      Helicopter_16x16_4: -1550566649
+      Helicopter_16x16_40: 1007850908
+      Helicopter_16x16_41: -570486919
+      Helicopter_16x16_42: 1253876033
+      Helicopter_16x16_43: 1735755140
+      Helicopter_16x16_44: 1453495226
+      Helicopter_16x16_45: 2086996576
+      Helicopter_16x16_46: 1785053085
+      Helicopter_16x16_47: 1341227854
+      Helicopter_16x16_48: -1528102708
+      Helicopter_16x16_49: -518964993
+      Helicopter_16x16_5: -152512461
+      Helicopter_16x16_50: -844268738
+      Helicopter_16x16_51: 93940077
+      Helicopter_16x16_52: -1467598122
+      Helicopter_16x16_53: 523116434
+      Helicopter_16x16_54: -1421573728
+      Helicopter_16x16_55: -2030528949
+      Helicopter_16x16_56: -1833291008
+      Helicopter_16x16_57: -1356274294
+      Helicopter_16x16_58: -1546185573
+      Helicopter_16x16_59: 1531940265
+      Helicopter_16x16_6: 1114963115
+      Helicopter_16x16_60: 186080980
+      Helicopter_16x16_61: -1271040005
+      Helicopter_16x16_62: 80142707
+      Helicopter_16x16_63: -560454813
+      Helicopter_16x16_64: 2130441764
+      Helicopter_16x16_65: -1272095905
+      Helicopter_16x16_66: 1911573251
+      Helicopter_16x16_67: 2077757196
+      Helicopter_16x16_68: 263358946
+      Helicopter_16x16_69: -2003999403
+      Helicopter_16x16_7: 1388345355
+      Helicopter_16x16_70: 1091548394
+      Helicopter_16x16_71: -1568046617
+      Helicopter_16x16_72: -412033017
+      Helicopter_16x16_73: -1912336557
+      Helicopter_16x16_74: 1142305760
+      Helicopter_16x16_75: -1668496814
+      Helicopter_16x16_76: 1118586591
+      Helicopter_16x16_77: 1790631934
+      Helicopter_16x16_78: 1090501203
+      Helicopter_16x16_79: 1248835055
+      Helicopter_16x16_8: -302228687
+      Helicopter_16x16_80: -1406896938
+      Helicopter_16x16_81: -1103704131
+      Helicopter_16x16_82: -382403839
+      Helicopter_16x16_83: 1485522424
+      Helicopter_16x16_84: -305276345
+      Helicopter_16x16_85: 456488264
+      Helicopter_16x16_86: 365520712
+      Helicopter_16x16_87: -1429940323
+      Helicopter_16x16_88: 1173226509
+      Helicopter_16x16_89: 180720688
+      Helicopter_16x16_9: 1689645232
+      Helicopter_16x16_90: 1901471992
+      Helicopter_16x16_91: 1412066973
+      Helicopter_16x16_92: 336031743
+      Helicopter_16x16_93: -1548733118
+      Helicopter_16x16_94: -2091938127
+      Helicopter_16x16_95: -1001554309
+      Helicopter_16x16_96: 1125674687
+      Helicopter_16x16_97: -1796762460
+      Helicopter_16x16_98: -1192459429
+      Helicopter_16x16_99: -626597125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

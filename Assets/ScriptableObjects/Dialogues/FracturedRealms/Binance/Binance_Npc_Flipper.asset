@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: Binance_Npc_Flipper
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  advancePerInteraction: 1
+  messages:
+  - actorId: 0
+    message: "Hey, where\u2019d you come from?"
+  - actorId: 0
+    message: "You\u2019re inside the Solaris Temple. I\u2019m\u2026new here but in
+      a gist we ensure the safety of multiple realms or something\u2026I\u2019m not
+      sure. Its best you speak with Master Fluff."
+  - actorId: 0
+    message: I heard someone once aligned the beams just right and poof! Magic door
+      opened!
+  actors:
+  - Name: Flipper
+    sprite: {fileID: 0}
+    color: {r: 0.35686275, g: 0.23137255, b: 0.07450981, a: 1}

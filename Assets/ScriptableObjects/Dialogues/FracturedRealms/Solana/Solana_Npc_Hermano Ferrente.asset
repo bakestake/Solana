@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: Solana_Npc_Hermano Ferrente
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  advancePerInteraction: 1
+  messages:
+  - actorId: 0
+    message: "Three greens to choose, but one you lose \u2014 taste the haze, or
+      feel the bruise."
+  - actorId: 0
+    message: One makes your mind a swirling pool. One burns your core, the last?
+      Perhaps the one you seek.
+  - actorId: 0
+    message: "Pick the wrong one and you might end your mission. Pick the right one
+      \u2014 infrared vision."
+  actors:
+  - Name: Hermano Ferrente
+    sprite: {fileID: 0}
+    color: {r: 0.35686275, g: 0.23137255, b: 0.07450981, a: 1}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94f89be39a6f44545a500e178b724a4e, type: 3}
+  m_Name: RamenDeliveryQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: RamenDeliveryQuest
+  <uid>k__BackingField: 1
+  displayName: Ramen Rush
+  questStartDialogue: {fileID: 11400000, guid: 7601e93476d5f394eb50057a670a8822, type: 2}
+  questProgressDialogue: {fileID: 11400000, guid: 5e60922f9a7d4bc4ebd967519aaaeb4d, type: 2}
+  questFinishDialogue: {fileID: 11400000, guid: 8127c127611a6354f9ef7486c821c580, type: 2}
+  questPrerequisites:
+  - {fileID: 11400000, guid: 3a2bba51f7dafa84aa30ce026468cf4f, type: 2}
+  questStepPrefabs:
+  - {fileID: 6247293221038370936, guid: 14d3c62c87fb5c94599da1328fc24b82, type: 3}
+  goldReward: 0
+  itemReward: {fileID: 0}
+  itemRewardAmount: 0
+  itemDelete: {fileID: 0}
+  itemDeleteAmount: 0
+  startDialogueRepeat: {fileID: 11400000, guid: 8df8413d07d8d5c49953672936185d25, type: 2}
+  progressDialogueRepeat: {fileID: 11400000, guid: 5e60922f9a7d4bc4ebd967519aaaeb4d, type: 2}
+  finishDialogueRepeat: {fileID: 11400000, guid: 8127c127611a6354f9ef7486c821c580, type: 2}

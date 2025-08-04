@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: c20a9254e2916e8408da7da7df847c9c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be87d7e7c08343044ba27519e7ca7a4a
+      internalID: 153697897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e7f2de5b14c05489fa3c2be955a7df
+      internalID: 798749308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de699a39d190f4409df42cfc9c210b5
+      internalID: 38068297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d215acc8834e743ae48bb7c79e8f5a
+      internalID: 1744025919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48661dfda12254478a3627527a45eba
+      internalID: -556366080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c54760e5c523489e6948105893043
+      internalID: 1233965599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a3f18b2ddbf884896c1de04e4b27f3
+      internalID: -785139674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d40175cc9d2e042a2ce300a038a350
+      internalID: 982318987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544f3517a2c7d340a2d90420e3dad6c
+      internalID: -1536695537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f081275b82bf90458ec9ad8c2f111b3
+      internalID: 381938669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899af9c7b6aa27449bbfb2d6dc40986b
+      internalID: 1842529019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45db1181b9225489fced3b0e3acadc
+      internalID: 662338902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002526872a8d814480fd1a7395bf395
+      internalID: -985201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713fcdde0f9f4d4ca5ce634c99bff12
+      internalID: 1282028161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca12e79bed63fa54083367202b0eecb8
+      internalID: 2079033472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d3dfce162240409b1613024ce0f71
+      internalID: 167032223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a41eadc3048664f8ee9710027260e8
+      internalID: -830854965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f04aa945232645a3f057ff24723e4
+      internalID: 1607306609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a22435c9ad34245b6e7172cc16ed2a
+      internalID: 544826027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03513777bd210d641887e182f8893736
+      internalID: -695303335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ef65403173a2c498b1992bdadd0cc9
+      internalID: 1857287153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5553221fa581108479f16605979fda03
+      internalID: -609306559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e6a3d854fa21f4587abb33a7a57859
+      internalID: 1754300149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d07b26325f5e44e9564941740119cc
+      internalID: -1249799186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719d84f9d09bd2d47ab6c33ce8a07b89
+      internalID: 1003774523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_31
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b1c40e1bcaf74d9aa560f0c4f6ab5
+      internalID: -1777824585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d8ac0a3c305f4b876091b068ab9db
+      internalID: -1215453439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdebfd312bf4374886155e4adbdeced
+      internalID: 608777419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce8c58e37b48164c9f799ca9cb90d3c
+      internalID: -1540699659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66060f59ee7120d4e9c20eba87b8674a
+      internalID: 1945809086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_38
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a26d621539bb429b3119c0b5fc0af
+      internalID: -127512134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb8b81f036214f4894d51969e28fa1a
+      internalID: 1360951165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_41
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f470b46c5d93e43861b054c62fc07f
+      internalID: 2123986131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_42
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3b3d74bf113d4282f30c04fe952fb
+      internalID: -1579846211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2da92ee0ec0e2c42918e7f159843597
+      internalID: 595708494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c4919ee2f4fd40ba446a908a8d494
+      internalID: 42955500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_46
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d02748e7190d44c805f7f32ff14f9f
+      internalID: 1510679825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c395f9094b37af943b1b7d6969cef762
+      internalID: -315172871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_49
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32000bc19ef7d5b4cb046d5aed87d467
+      internalID: -2059286852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_50
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd21fada5a36aa8419f3c1ea3cce9d13
+      internalID: 1907062871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_52
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc3d85920a9c948b8a6dc5f7c9becc
+      internalID: -1778513373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_53
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162460c9d2465154c9de88c6dd341e95
+      internalID: -1350331151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_55
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def2dda058c06eb45ab0d2d941ad51f0
+      internalID: 147805553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d352b511bbf044a11d8b2be6c98b3
+      internalID: -465071752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385ecfc26c154c419d873f45babbc56
+      internalID: 1605262037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733b7ae82dbab24396a596d1d34598e
+      internalID: 141911172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31075490e6113674db184f18a4b1ac3e
+      internalID: 1514400338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f8400f6f18d5d449c539210a1e5113
+      internalID: -2102816043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40316031ee34fbc48ac0f0ef0af57cc7
+      internalID: 470834130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665be578e3d9be1489c10b52646acc67
+      internalID: -443477010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592f508d19945d4caa4a5d6a18e32e4
+      internalID: 1250437668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d74704263be45e4d979548f5196fff5
+      internalID: -1721407038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_74
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df03e17a53426404c98e297d9cb4fe0e
+      internalID: 665424297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe76655d68156468eca0fe9b918683
+      internalID: 971873259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee2a11bc336bf7429a0a24ac0665686
+      internalID: 2106310600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_80
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddecb40f5fdaf924ebd0dd468e5a7c43
+      internalID: -1481269486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_81
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6393b769a63c87a4f8a7ad44a7719f72
+      internalID: -136422859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_83
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f54b294de1936d4a8fd0b0c0e70674c
+      internalID: -1104954828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_86
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b56eca0e93494db26b8d40f8aa2b3
+      internalID: 962795230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c150ebfb8196b45b3561a3f74f675c
+      internalID: 712364398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_89
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41259da26fbe384eb1a585527ba2567
+      internalID: -1365900273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_92
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ae33a5ec4a60c4b982b30e2e0bce31
+      internalID: 1498223516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_93
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a1347f651a694f8de4101dd0560c0
+      internalID: -1039205998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79194611d1b96fe41b489ad94381527b
+      internalID: -1886400905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_98
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef41873e1ef53d8498d1c1b8f5ee7126
+      internalID: -1197901195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_99
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105c3dcd456b614c94577b2affb3986
+      internalID: 640468774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_101
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43bc937598867b40aeed7cfc9a6f7cf
+      internalID: -1405717536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef4a8457d5976b4db5ca3cb614a4258
+      internalID: -66445376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e156d35a3a23ce4f8ca09036179f3b4
+      internalID: -176991224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb4f06d7a83a04780aa9c080ff2485
+      internalID: 941058714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2723e928fba52140a05d07a8682440c
+      internalID: 239720859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_121
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb09d80571077a4eac73c25491a8b77
+      internalID: -618518157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ac44619e2160b41af61862ac5ff0d9
+      internalID: -1209939643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b827c01720ef9246bcafa9d2bb4d299
+      internalID: -407375121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_129
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bd8757d5a0c3641a8bdc050d063954
+      internalID: -2019736196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_131
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60ea72f6a5490443b451377bbbd7802
+      internalID: 1309584939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e951e1721d968394eb29bf12872443a8
+      internalID: -1480194519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_138
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666954ae9d906784ab4adaef1a959537
+      internalID: 953372636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_143
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af27c7b591f0014aa3222e5a613b78f
+      internalID: 476606289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_145
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc59a3df7848e64599101fb43aebf43
+      internalID: -975355661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_150
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4f9665d6c82ea48aee0c5adbc10e8d
+      internalID: 1687109691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_152
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043f8c144e1c00144bd220825b3594fa
+      internalID: -1084327723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_157
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94544a4c5e0a60498be5741cdb219a2
+      internalID: 1546314873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_159
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300df14a789de304abd1cfd7bdcd2c72
+      internalID: -1503567991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384b275c68d07c14dbb4c4e0a7268133
+      internalID: 1241223850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad562151d83ab2d4d82e1808e2ed9b67
+      internalID: -83878744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de11b71cf1f94ee4785fa62a2110b61e
+      internalID: 1155959255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_164
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6faa9089d03a429d78e50358540fd
+      internalID: 1070882808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_165
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bb57724443fb644ba7d09ce0de980f
+      internalID: 1012394181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_167
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f61ebfb048fbb14baca482c7dac59b0
+      internalID: 464686147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_168
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fe95e110a29cb49bbf11c0facbd7b0
+      internalID: 546424905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_169
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc308c0a9561f9b45b7f8b25a58a85be
+      internalID: -307880869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_171
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa6d462a6b9b7a43aaae6bbc4c99f36
+      internalID: -581611284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_172
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f59372dc9b5c54a8be5e1ead89b1b0
+      internalID: 15901235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_173
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683b8cfd2cb45f3428c6776a8d3550e5
+      internalID: 648522334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_175
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d08c5aa3573092459abb4becf467277
+      internalID: 1886913882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_176
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b947c67aec3ca144b638251c17232e8
+      internalID: 485547480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_177
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9992305c9944f6f438529564a5b3f5ce
+      internalID: -1758353863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_179
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dc1674a9d9a444382dbbcb070f8a58
+      internalID: 762301038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_180
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae726b81b16315d4f9da19822a17f5d7
+      internalID: 587224528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_181
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3191073dfabab64686284b7a41bd9be
+      internalID: 1266990991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_183
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d5e42b684bf045b398bfb7be0e9db
+      internalID: 46857945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_184
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac32045452b1af643bbc99d0f31ffd18
+      internalID: 965594199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_185
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f14db5a96fe0b4fb1fc97544b7bb92
+      internalID: 469302874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_187
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a53786245e2a4b46ad64d19c491f4c3
+      internalID: -859701085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_188
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7611aae104d8364690e3000bdfbfcd9
+      internalID: 589492136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_189
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe13c011a500d4b934e7e29b995868
+      internalID: -1474965135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BK_BEACH_TILES_WATER_ANIMATED_191
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd5dab95df2544caaeed6b18fa1cad
+      internalID: -813431359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BK_BEACH_TILES_WATER_ANIMATED_0: 153697897
+      BK_BEACH_TILES_WATER_ANIMATED_1: 798749308
+      BK_BEACH_TILES_WATER_ANIMATED_10: 381938669
+      BK_BEACH_TILES_WATER_ANIMATED_100: 1950602222
+      BK_BEACH_TILES_WATER_ANIMATED_101: -1405717536
+      BK_BEACH_TILES_WATER_ANIMATED_102: 1044752608
+      BK_BEACH_TILES_WATER_ANIMATED_103: 365415122
+      BK_BEACH_TILES_WATER_ANIMATED_104: 1268707511
+      BK_BEACH_TILES_WATER_ANIMATED_105: 1243409277
+      BK_BEACH_TILES_WATER_ANIMATED_106: 793527964
+      BK_BEACH_TILES_WATER_ANIMATED_107: -280513230
+      BK_BEACH_TILES_WATER_ANIMATED_108: -66445376
+      BK_BEACH_TILES_WATER_ANIMATED_109: -167290116
+      BK_BEACH_TILES_WATER_ANIMATED_11: 1842529019
+      BK_BEACH_TILES_WATER_ANIMATED_110: -176991224
+      BK_BEACH_TILES_WATER_ANIMATED_111: -387757040
+      BK_BEACH_TILES_WATER_ANIMATED_112: -1529044738
+      BK_BEACH_TILES_WATER_ANIMATED_113: 1009015230
+      BK_BEACH_TILES_WATER_ANIMATED_114: -27698813
+      BK_BEACH_TILES_WATER_ANIMATED_115: 941058714
+      BK_BEACH_TILES_WATER_ANIMATED_116: -879601792
+      BK_BEACH_TILES_WATER_ANIMATED_117: 239720859
+      BK_BEACH_TILES_WATER_ANIMATED_118: -205476375
+      BK_BEACH_TILES_WATER_ANIMATED_119: 799550131
+      BK_BEACH_TILES_WATER_ANIMATED_12: 1839906806
+      BK_BEACH_TILES_WATER_ANIMATED_120: -244722078
+      BK_BEACH_TILES_WATER_ANIMATED_121: -618518157
+      BK_BEACH_TILES_WATER_ANIMATED_122: -1209939643
+      BK_BEACH_TILES_WATER_ANIMATED_123: -1199076014
+      BK_BEACH_TILES_WATER_ANIMATED_124: -407375121
+      BK_BEACH_TILES_WATER_ANIMATED_125: -1107892684
+      BK_BEACH_TILES_WATER_ANIMATED_126: 725329657
+      BK_BEACH_TILES_WATER_ANIMATED_127: -1034064619
+      BK_BEACH_TILES_WATER_ANIMATED_128: -2028187479
+      BK_BEACH_TILES_WATER_ANIMATED_129: -2019736196
+      BK_BEACH_TILES_WATER_ANIMATED_13: 662338902
+      BK_BEACH_TILES_WATER_ANIMATED_130: 1456139461
+      BK_BEACH_TILES_WATER_ANIMATED_131: 1309584939
+      BK_BEACH_TILES_WATER_ANIMATED_132: 1099484763
+      BK_BEACH_TILES_WATER_ANIMATED_133: -1531981401
+      BK_BEACH_TILES_WATER_ANIMATED_134: -1940703654
+      BK_BEACH_TILES_WATER_ANIMATED_135: -542497316
+      BK_BEACH_TILES_WATER_ANIMATED_136: -1480194519
+      BK_BEACH_TILES_WATER_ANIMATED_137: -1559346417
+      BK_BEACH_TILES_WATER_ANIMATED_138: 953372636
+      BK_BEACH_TILES_WATER_ANIMATED_139: 2031616317
+      BK_BEACH_TILES_WATER_ANIMATED_14: -985201
+      BK_BEACH_TILES_WATER_ANIMATED_140: 111985231
+      BK_BEACH_TILES_WATER_ANIMATED_141: -1689477723
+      BK_BEACH_TILES_WATER_ANIMATED_142: 2043321244
+      BK_BEACH_TILES_WATER_ANIMATED_143: 476606289
+      BK_BEACH_TILES_WATER_ANIMATED_144: -119293393
+      BK_BEACH_TILES_WATER_ANIMATED_145: -975355661
+      BK_BEACH_TILES_WATER_ANIMATED_146: -1870679301
+      BK_BEACH_TILES_WATER_ANIMATED_147: -2022674640
+      BK_BEACH_TILES_WATER_ANIMATED_148: -1864238955
+      BK_BEACH_TILES_WATER_ANIMATED_149: -1499532546
+      BK_BEACH_TILES_WATER_ANIMATED_15: 1282028161
+      BK_BEACH_TILES_WATER_ANIMATED_150: 1687109691
+      BK_BEACH_TILES_WATER_ANIMATED_151: 2085416285
+      BK_BEACH_TILES_WATER_ANIMATED_152: -1084327723
+      BK_BEACH_TILES_WATER_ANIMATED_153: -1701969860
+      BK_BEACH_TILES_WATER_ANIMATED_154: -499075262
+      BK_BEACH_TILES_WATER_ANIMATED_155: -615762874
+      BK_BEACH_TILES_WATER_ANIMATED_156: 329028851
+      BK_BEACH_TILES_WATER_ANIMATED_157: 1546314873
+      BK_BEACH_TILES_WATER_ANIMATED_158: 1394889166
+      BK_BEACH_TILES_WATER_ANIMATED_159: -1503567991
+      BK_BEACH_TILES_WATER_ANIMATED_16: 2079033472
+      BK_BEACH_TILES_WATER_ANIMATED_160: 1241223850
+      BK_BEACH_TILES_WATER_ANIMATED_161: -83878744
+      BK_BEACH_TILES_WATER_ANIMATED_162: -432097334
+      BK_BEACH_TILES_WATER_ANIMATED_163: 1155959255
+      BK_BEACH_TILES_WATER_ANIMATED_164: 1070882808
+      BK_BEACH_TILES_WATER_ANIMATED_165: 1012394181
+      BK_BEACH_TILES_WATER_ANIMATED_166: -469324916
+      BK_BEACH_TILES_WATER_ANIMATED_167: 464686147
+      BK_BEACH_TILES_WATER_ANIMATED_168: 546424905
+      BK_BEACH_TILES_WATER_ANIMATED_169: -307880869
+      BK_BEACH_TILES_WATER_ANIMATED_17: 167032223
+      BK_BEACH_TILES_WATER_ANIMATED_170: 2056936431
+      BK_BEACH_TILES_WATER_ANIMATED_171: -581611284
+      BK_BEACH_TILES_WATER_ANIMATED_172: 15901235
+      BK_BEACH_TILES_WATER_ANIMATED_173: 648522334
+      BK_BEACH_TILES_WATER_ANIMATED_174: -1720719875
+      BK_BEACH_TILES_WATER_ANIMATED_175: 1886913882
+      BK_BEACH_TILES_WATER_ANIMATED_176: 485547480
+      BK_BEACH_TILES_WATER_ANIMATED_177: -1758353863
+      BK_BEACH_TILES_WATER_ANIMATED_178: -946259138
+      BK_BEACH_TILES_WATER_ANIMATED_179: 762301038
+      BK_BEACH_TILES_WATER_ANIMATED_18: -830854965
+      BK_BEACH_TILES_WATER_ANIMATED_180: 587224528
+      BK_BEACH_TILES_WATER_ANIMATED_181: 1266990991
+      BK_BEACH_TILES_WATER_ANIMATED_182: -944584795
+      BK_BEACH_TILES_WATER_ANIMATED_183: 46857945
+      BK_BEACH_TILES_WATER_ANIMATED_184: 965594199
+      BK_BEACH_TILES_WATER_ANIMATED_185: 469302874
+      BK_BEACH_TILES_WATER_ANIMATED_186: 2036565314
+      BK_BEACH_TILES_WATER_ANIMATED_187: -859701085
+      BK_BEACH_TILES_WATER_ANIMATED_188: 589492136
+      BK_BEACH_TILES_WATER_ANIMATED_189: -1474965135
+      BK_BEACH_TILES_WATER_ANIMATED_19: 2114163854
+      BK_BEACH_TILES_WATER_ANIMATED_190: -608576840
+      BK_BEACH_TILES_WATER_ANIMATED_191: -813431359
+      BK_BEACH_TILES_WATER_ANIMATED_2: 38068297
+      BK_BEACH_TILES_WATER_ANIMATED_20: 1607306609
+      BK_BEACH_TILES_WATER_ANIMATED_21: 544826027
+      BK_BEACH_TILES_WATER_ANIMATED_22: -695303335
+      BK_BEACH_TILES_WATER_ANIMATED_23: -224820002
+      BK_BEACH_TILES_WATER_ANIMATED_24: 1857287153
+      BK_BEACH_TILES_WATER_ANIMATED_25: -609306559
+      BK_BEACH_TILES_WATER_ANIMATED_26: -566246496
+      BK_BEACH_TILES_WATER_ANIMATED_27: 1754300149
+      BK_BEACH_TILES_WATER_ANIMATED_28: -1249799186
+      BK_BEACH_TILES_WATER_ANIMATED_29: 1003774523
+      BK_BEACH_TILES_WATER_ANIMATED_3: 1744025919
+      BK_BEACH_TILES_WATER_ANIMATED_30: 1613679485
+      BK_BEACH_TILES_WATER_ANIMATED_31: -1777824585
+      BK_BEACH_TILES_WATER_ANIMATED_32: -1215453439
+      BK_BEACH_TILES_WATER_ANIMATED_33: -1275544065
+      BK_BEACH_TILES_WATER_ANIMATED_34: 608777419
+      BK_BEACH_TILES_WATER_ANIMATED_35: -1540699659
+      BK_BEACH_TILES_WATER_ANIMATED_36: 1945809086
+      BK_BEACH_TILES_WATER_ANIMATED_37: -166680745
+      BK_BEACH_TILES_WATER_ANIMATED_38: -127512134
+      BK_BEACH_TILES_WATER_ANIMATED_39: 1360951165
+      BK_BEACH_TILES_WATER_ANIMATED_4: -556366080
+      BK_BEACH_TILES_WATER_ANIMATED_40: 1759537237
+      BK_BEACH_TILES_WATER_ANIMATED_41: 2123986131
+      BK_BEACH_TILES_WATER_ANIMATED_42: -1579846211
+      BK_BEACH_TILES_WATER_ANIMATED_43: 595708494
+      BK_BEACH_TILES_WATER_ANIMATED_44: -817800847
+      BK_BEACH_TILES_WATER_ANIMATED_45: 42955500
+      BK_BEACH_TILES_WATER_ANIMATED_46: 1510679825
+      BK_BEACH_TILES_WATER_ANIMATED_47: -848887321
+      BK_BEACH_TILES_WATER_ANIMATED_48: -315172871
+      BK_BEACH_TILES_WATER_ANIMATED_49: -2059286852
+      BK_BEACH_TILES_WATER_ANIMATED_5: 643111225
+      BK_BEACH_TILES_WATER_ANIMATED_50: 1907062871
+      BK_BEACH_TILES_WATER_ANIMATED_51: 537632488
+      BK_BEACH_TILES_WATER_ANIMATED_52: -1778513373
+      BK_BEACH_TILES_WATER_ANIMATED_53: -1350331151
+      BK_BEACH_TILES_WATER_ANIMATED_54: 645655050
+      BK_BEACH_TILES_WATER_ANIMATED_55: 147805553
+      BK_BEACH_TILES_WATER_ANIMATED_56: -465071752
+      BK_BEACH_TILES_WATER_ANIMATED_57: 1605262037
+      BK_BEACH_TILES_WATER_ANIMATED_58: -46557994
+      BK_BEACH_TILES_WATER_ANIMATED_59: 141911172
+      BK_BEACH_TILES_WATER_ANIMATED_6: 1233965599
+      BK_BEACH_TILES_WATER_ANIMATED_60: 2134868989
+      BK_BEACH_TILES_WATER_ANIMATED_61: 46144078
+      BK_BEACH_TILES_WATER_ANIMATED_62: 1514400338
+      BK_BEACH_TILES_WATER_ANIMATED_63: -2102816043
+      BK_BEACH_TILES_WATER_ANIMATED_64: 1826760625
+      BK_BEACH_TILES_WATER_ANIMATED_65: 470834130
+      BK_BEACH_TILES_WATER_ANIMATED_66: 1479031372
+      BK_BEACH_TILES_WATER_ANIMATED_67: -1139173995
+      BK_BEACH_TILES_WATER_ANIMATED_68: -443477010
+      BK_BEACH_TILES_WATER_ANIMATED_69: 1250437668
+      BK_BEACH_TILES_WATER_ANIMATED_7: -785139674
+      BK_BEACH_TILES_WATER_ANIMATED_70: -1082572547
+      BK_BEACH_TILES_WATER_ANIMATED_71: -1721407038
+      BK_BEACH_TILES_WATER_ANIMATED_72: -1416821998
+      BK_BEACH_TILES_WATER_ANIMATED_73: -1798700818
+      BK_BEACH_TILES_WATER_ANIMATED_74: 665424297
+      BK_BEACH_TILES_WATER_ANIMATED_75: 971873259
+      BK_BEACH_TILES_WATER_ANIMATED_76: -16374143
+      BK_BEACH_TILES_WATER_ANIMATED_77: 2106310600
+      BK_BEACH_TILES_WATER_ANIMATED_78: 46276311
+      BK_BEACH_TILES_WATER_ANIMATED_79: -723951085
+      BK_BEACH_TILES_WATER_ANIMATED_8: 982318987
+      BK_BEACH_TILES_WATER_ANIMATED_80: -1481269486
+      BK_BEACH_TILES_WATER_ANIMATED_81: -136422859
+      BK_BEACH_TILES_WATER_ANIMATED_82: 1446133774
+      BK_BEACH_TILES_WATER_ANIMATED_83: -1104954828
+      BK_BEACH_TILES_WATER_ANIMATED_84: 1504275984
+      BK_BEACH_TILES_WATER_ANIMATED_85: -1550204602
+      BK_BEACH_TILES_WATER_ANIMATED_86: 962795230
+      BK_BEACH_TILES_WATER_ANIMATED_87: 712364398
+      BK_BEACH_TILES_WATER_ANIMATED_88: 1727168566
+      BK_BEACH_TILES_WATER_ANIMATED_89: -1365900273
+      BK_BEACH_TILES_WATER_ANIMATED_9: -1536695537
+      BK_BEACH_TILES_WATER_ANIMATED_90: -433486477
+      BK_BEACH_TILES_WATER_ANIMATED_91: 2019705200
+      BK_BEACH_TILES_WATER_ANIMATED_92: 1498223516
+      BK_BEACH_TILES_WATER_ANIMATED_93: -1039205998
+      BK_BEACH_TILES_WATER_ANIMATED_94: -1443986854
+      BK_BEACH_TILES_WATER_ANIMATED_95: -1886400905
+      BK_BEACH_TILES_WATER_ANIMATED_96: 1046154179
+      BK_BEACH_TILES_WATER_ANIMATED_97: 1731757210
+      BK_BEACH_TILES_WATER_ANIMATED_98: -1197901195
+      BK_BEACH_TILES_WATER_ANIMATED_99: 640468774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

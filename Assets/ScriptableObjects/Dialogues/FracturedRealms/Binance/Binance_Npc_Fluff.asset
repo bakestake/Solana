@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: Binance_Npc_Fluff
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  advancePerInteraction: 1
+  messages:
+  - actorId: 0
+    message: "The sun speaks to us since eons past\u2026through a dream of mirrors
+      a new realm unlocked."
+  - actorId: 0
+    message: Your arrival was long foreseen, young one. There is much to learn, but
+      too little time. Solving the mirror puzzle is a challenge one must solve by
+      their own wits alone. Everything you need is in this room.
+  - actorId: 0
+    message: Hurry and solve the puzzle, the dimensions are losing stability. Our
+      paths shall cross again soon. I wish you luck
+  actors:
+  - Name: Fluff
+    sprite: {fileID: 0}
+    color: {r: 0.35686275, g: 0.23137255, b: 0.07450981, a: 1}

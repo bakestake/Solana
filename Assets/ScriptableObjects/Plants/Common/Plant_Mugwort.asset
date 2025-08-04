@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc7048349e1dadd488152015363723c8, type: 3}
+  m_Name: Plant_Mugwort
+  m_EditorClassIdentifier: 
+  plantName: Mugwort
+  plantDescription: Mugwort leaves are growing here
+  phases:
+  - phaseName: Seed
+    timeToUpgrade: 24
+    states:
+    - stateName: Health
+      sprite: {fileID: -1221951800, guid: db2e411ab286fdc459c0c2aa3317a459, type: 3}
+    canHarvest: 0
+    phaseAfterHarvest: -1
+    loot:
+      items: []
+  - phaseName: Sprout
+    timeToUpgrade: 24
+    states:
+    - stateName: Health
+      sprite: {fileID: -40022136, guid: db2e411ab286fdc459c0c2aa3317a459, type: 3}
+    - stateName: Dry
+      sprite: {fileID: -40022136, guid: db2e411ab286fdc459c0c2aa3317a459, type: 3}
+    canHarvest: 0
+    phaseAfterHarvest: -1
+    loot:
+      items: []
+  - phaseName: Sapling
+    timeToUpgrade: 24
+    states:
+    - stateName: Health
+      sprite: {fileID: 1303524763, guid: db2e411ab286fdc459c0c2aa3317a459, type: 3}
+    - stateName: Dry
+      sprite: {fileID: 1303524763, guid: db2e411ab286fdc459c0c2aa3317a459, type: 3}
+    canHarvest: 0
+    phaseAfterHarvest: -1
+    loot:
+      items:
+      - unityReference: {fileID: 0}
+        serializedReference:
+          rid: 2321103411399098375
+        currentType: BakelandPlantReward, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+  - phaseName: Stalk
+    timeToUpgrade: 24
+    states:
+    - stateName: Health
+      sprite: {fileID: 1858068696, guid: db2e411ab286fdc459c0c2aa3317a459, type: 3}
+    - stateName: Dry
+      sprite: {fileID: 1858068696, guid: db2e411ab286fdc459c0c2aa3317a459, type: 3}
+    canHarvest: 0
+    phaseAfterHarvest: -1
+    loot:
+      items:
+      - unityReference: {fileID: 0}
+        serializedReference:
+          rid: 2321103411399098371
+        currentType: BakelandPlantReward, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+  - phaseName: Mature
+    timeToUpgrade: 24
+    states:
+    - stateName: Health
+      sprite: {fileID: -256007523, guid: db2e411ab286fdc459c0c2aa3317a459, type: 3}
+    canHarvest: 1
+    phaseAfterHarvest: -1
+    loot:
+      items:
+      - unityReference: {fileID: 0}
+        serializedReference:
+          rid: 2321103411399098372
+        currentType: BakelandPlantReward, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+  references:
+    version: 2
+    RefIds:
+    - rid: 2321103411399098371
+      type: {class: BakelandPlantReward, ns: , asm: Assembly-CSharp}
+      data:
+        item: {fileID: 11400000, guid: 322e3c018ad754f4a9fe588029eacda1, type: 2}
+        amount: 1
+    - rid: 2321103411399098372
+      type: {class: BakelandPlantReward, ns: , asm: Assembly-CSharp}
+      data:
+        item: {fileID: 11400000, guid: 322e3c018ad754f4a9fe588029eacda1, type: 2}
+        amount: 1
+    - rid: 2321103411399098375
+      type: {class: BakelandPlantReward, ns: , asm: Assembly-CSharp}
+      data:
+        item: {fileID: 11400000, guid: 322e3c018ad754f4a9fe588029eacda1, type: 2}
+        amount: 1

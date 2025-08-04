@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: Base_Npc_Glitch PNK-404
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  advancePerInteraction: 1
+  messages:
+  - actorId: 0
+    message: "It\u2019s not about the pressure. It\u2019s about the release\u2026wait.
+      Scratch that."
+  - actorId: 0
+    message: "All doors are shut\u2026 until you drown the doubt. Goddamn, why was
+      I made this way?"
+  - actorId: 0
+    message: "I\u2019m glad that you\u2019ve come to me for advice. You should probably
+      find a way to activate our hydraulic system. I\u2019ve heard it unlocks\u2026*access
+      revoked*."
+  actors:
+  - Name: Glitch PNK-404
+    sprite: {fileID: 0}
+    color: {r: 0.35686275, g: 0.23137255, b: 0.07450981, a: 1}

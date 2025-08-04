@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03e6025e96a35ab4e8d2cefd56bd05b0, type: 3}
+  m_Name: Item_Seed_Mugwort
+  m_EditorClassIdentifier: 
+  Name: Mugwort Seeds
+  uid: 18
+  description: Some mugwort seeds
+  id: 
+  icon: {fileID: -522229523, guid: e0e1cf63e1ed89d47ad2532c260731ef, type: 3}
+  attributes:
+    keyValuePairs: []
+  onHold: {fileID: 0}
+  onAction: {fileID: 0}
+  onItemUsed: {fileID: 0}
+  stackable: 1
+  maxStack: 50
+  unique: 0
+  mintFunction: 
+  isMintable: 1
+  forceMintAfterAdd: 0
+  marketable: 1
+  buyPrice: 20
+  sellPrice: 6
+  isWaterCan: 0
+  plantData: {fileID: 11400000, guid: 11296feb3e0c0f748842bcf90360c53a, type: 2}
+  fertilizerData: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

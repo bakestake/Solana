@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: StepDialogue01
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  advancePerInteraction: 0
+  messages:
+  - actorId: 0
+    message: There are some tools left over for you to use next to that furnace and
+      workbench over there to the right, in case you haven't grabbed them yet. Consider
+      this my welcome gift to you!
+  - actorId: 0
+    message: As you can see, there is some soil available for you to plant the seeds
+      I gave you!
+  - actorId: 0
+    message: "Try ploughing the soil after selecting your plough, followed by planting
+      your seeds and watering them. Pay attention... and you\u2019ll be growing your
+      own stash, man!"
+  - actorId: 0
+    message: "In case you get lost, just follow the blue arrow on top of your head,
+      it should point in my direction.\r"
+  - actorId: 0
+    message: Don't ask me how that thing works, it just does, okay!? See you there,
+      newcomer!
+  actors:
+  - Name: Puff the Bear
+    sprite: {fileID: 0}
+    color: {r: 0.32156864, g: 0.32156864, b: 0.32156864, a: 1}

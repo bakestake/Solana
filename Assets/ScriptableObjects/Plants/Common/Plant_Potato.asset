@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc7048349e1dadd488152015363723c8, type: 3}
+  m_Name: Plant_Potato
+  m_EditorClassIdentifier: 
+  plantName: Potato
+  plantDescription: A potato is growing here
+  phases:
+  - phaseName: Seed
+    timeToUpgrade: 45
+    states:
+    - stateName: Health
+      sprite: {fileID: 1254583286, guid: 18200f954dbf1944e82b2878a0fdd491, type: 3}
+    canHarvest: 0
+    phaseAfterHarvest: -1
+    loot:
+      items: []
+  - phaseName: Sprout
+    timeToUpgrade: 45
+    states:
+    - stateName: Health
+      sprite: {fileID: -269727352, guid: 18200f954dbf1944e82b2878a0fdd491, type: 3}
+    - stateName: Dry
+      sprite: {fileID: -269727352, guid: 18200f954dbf1944e82b2878a0fdd491, type: 3}
+    canHarvest: 0
+    phaseAfterHarvest: -1
+    loot:
+      items: []
+  - phaseName: Sapling
+    timeToUpgrade: 45
+    states:
+    - stateName: Health
+      sprite: {fileID: 661364957, guid: 18200f954dbf1944e82b2878a0fdd491, type: 3}
+    - stateName: Dry
+      sprite: {fileID: 661364957, guid: 18200f954dbf1944e82b2878a0fdd491, type: 3}
+    canHarvest: 0
+    phaseAfterHarvest: -1
+    loot:
+      items: []
+  - phaseName: Mature
+    timeToUpgrade: 45
+    states:
+    - stateName: Health
+      sprite: {fileID: -464651729, guid: 18200f954dbf1944e82b2878a0fdd491, type: 3}
+    canHarvest: 1
+    phaseAfterHarvest: -1
+    loot:
+      items:
+      - unityReference: {fileID: 0}
+        serializedReference:
+          rid: 804652541905993732
+        currentType: BakelandPlantReward, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+  references:
+    version: 2
+    RefIds:
+    - rid: 804652541905993732
+      type: {class: BakelandPlantReward, ns: , asm: Assembly-CSharp}
+      data:
+        item: {fileID: 11400000, guid: c5cd1b8d3af275b40a0832cd11ec52aa, type: 2}
+        amount: 1

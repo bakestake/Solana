@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03e6025e96a35ab4e8d2cefd56bd05b0, type: 3}
+  m_Name: Item_Consumable_Weed
+  m_EditorClassIdentifier: 
+  Name: Weed
+  uid: 11
+  description: A wild herb known for its calming effects
+  id: 
+  icon: {fileID: 21300000, guid: c2861fcc604910b4b985b2beac52a510, type: 3}
+  attributes:
+    keyValuePairs: []
+  onHold: {fileID: 0}
+  onAction: {fileID: 11400000, guid: 3bce1b11c015d8641b89cf9948bfbefb, type: 2}
+  onItemUsed: {fileID: 11400000, guid: 3bce1b11c015d8641b89cf9948bfbefb, type: 2}
+  stackable: 1
+  maxStack: 999
+  unique: 0
+  mintFunction: 
+  isMintable: 1
+  forceMintAfterAdd: 0
+  marketable: 1
+  buyPrice: 20
+  sellPrice: 6
+  isWaterCan: 0
+  plantData: {fileID: 0}
+  fertilizerData: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

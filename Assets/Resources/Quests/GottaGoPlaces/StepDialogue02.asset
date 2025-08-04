@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: StepDialogue02
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  advancePerInteraction: 0
+  messages:
+  - actorId: 0
+    message: "Yo stranger, what took you so long?\r"
+  - actorId: 0
+    message: Hah, I'm just kidding! You better have made use of all that unused farmland
+      before coming here. A good harvest will fetch you some proper coin in this
+      economy.
+  - actorId: 0
+    message: "Anyway, this here is Pablo, the guy I was talking about. He\u2019s
+      got a weird habit of hoarding all kinds of stuff, which seems to work out for
+      us. Speak with him to see for yourself!"
+  - actorId: 0
+    message: Just select the item from his inventory you wish to buy. If you want
+      to sell, just do the same but from your inventory. Simple, right?
+  - actorId: 0
+    message: "Okay, leave you guys to bargain! I\u2019m starving, I\u2019ll be at
+      the Ramen Shop south of here whenever you\u2019re done."
+  actors:
+  - Name: Puff the Bear
+    sprite: {fileID: 0}
+    color: {r: 0.32156864, g: 0.32156864, b: 0.32156864, a: 1}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2bcffcb889b1054893e463a523d65c3, type: 3}
+  m_Name: Shop_BikeShop
+  m_EditorClassIdentifier: 
+  slots:
+  - editor_itemName: Hover Pod
+    item: {fileID: 11400000, guid: 9efc840fe64c7fe40a03ecab0a28c4c3, type: 2}
+    count: 1
+  - editor_itemName: Bike
+    item: {fileID: 11400000, guid: 9d71b8d004552464fa0b5b7d223616fe, type: 2}
+    count: 1
+  - editor_itemName: Hoe
+    item: {fileID: 11400000, guid: e872f9f31ca9a7947aac51f1cd9768b9, type: 2}
+    count: 3
+  - editor_itemName: Grow Up Fertilizer
+    item: {fileID: 11400000, guid: 0326380b2acaffe428c5b1e0d993c148, type: 2}
+    count: 30
+  - editor_itemName: Speed Elixir
+    item: {fileID: 11400000, guid: f61f31a9ca9265d4db7a5660420805c1, type: 2}
+    count: 1
+  - editor_itemName: Weed
+    item: {fileID: 11400000, guid: 3b3f0a7f82a26144da3770318ad88b28, type: 2}
+    count: 1
+  - editor_itemName: Carrot Seeds
+    item: {fileID: 11400000, guid: 3dc9d2f0cf7a38644ab1f3774f68f17b, type: 2}
+    count: 5
+  - editor_itemName: Cabbage Seeds
+    item: {fileID: 11400000, guid: 573cdef89b506c944b50bd1746d469e9, type: 2}
+    count: 5
+  - editor_itemName: Mugwort  Seeds
+    item: {fileID: 11400000, guid: fc35194da485f964f9b2e224a31ffe4e, type: 2}
+    count: 5
+  - editor_itemName: Pumpkin Seeds
+    item: {fileID: 11400000, guid: b94bce9c8307dd14b8c2f6c6c69ac79c, type: 2}
+    count: 5
+  - editor_itemName: Potato Seeds
+    item: {fileID: 11400000, guid: d4f268c0622c27e49b32a8e6ddfecbc6, type: 2}
+    count: 5
+  isDirty: 0
