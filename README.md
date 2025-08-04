@@ -46,19 +46,21 @@ Bakeland is a revolutionary mobile gaming experience built specifically for the 
 - **Native Solana Support**: Direct integration with Solana blockchain
 - **Wallet Management**: Seamless wallet connection and transaction handling
 
-
 #### **GameShift APIs**
 
 - **Advanced NFT Infrastructure**:  NFT management with improved UX
 - **User Registration System**: Seamless onboarding for new players
 - **Inventory Management**: Comprehensive item tracking and ownership
 
+### **Token Program integration**
+- **Burn bonk** - Quest needs users to burn bonk tokens to mint special edition NFT.
+
+
 ### **Key Technical Features**
 
-#### **Real-time Blockchain Integration**
-- **Real-time asset minting**: Real time assets minting through gameshift
-- **Seamless onboarding**: Wallet creation and on-boarding through solana unity sdk
-- **Gasless web3 gaming**: No gas -> seamless gaming UX
+#### **Blockchain Integration for onchain assets and game items**
+- **Real-time asset minting**: Real time assets minting through **Gameshift**
+- **Seamless onboarding**: Wallet creation and on-boarding through **solana unity sdk [Mobile wallet adapter]**
 
 #### **Mobile-Optimized Architecture**
 - **Performance Optimization**: 60fps gameplay on mobile devices
