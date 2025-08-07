@@ -119,7 +119,18 @@ Bakeland is a revolutionary mobile gaming experience built specifically for the 
 ### **Installation**
 1. Clone the repository
 2. Open in Unity 2022.3.20f1
-3. Copy .env.sample to .env
+3. Copy following to .env
+```
+INVENTORY_API_KEY="reach out to get a key"
+INVENTORY_API_URL=https://0nb7usag4b.execute-api.eu-west-3.amazonaws.com/dev/
+USERDB_API_URL=https://nqqoe6uzak.execute-api.eu-west-3.amazonaws.com/dev
+USERDB_API_KEY="reach out to get a key"
+
+
+GAMESHIFT_API_URL=
+GAMESHIFT_API_KEY=
+
+```
 4. populate .env with secrets like gameshift creds
 5. Build for Android target
    ``` File -> build settings -> select androif platform -> build ```
