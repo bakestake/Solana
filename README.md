@@ -3,7 +3,7 @@
 ## 📱 Solana Mobile Hackathon Submission
 
 ## Structure
-
+  ```bash
   bakeland-unit
   |-...
   |-...
@@ -14,7 +14,7 @@
        |- ...
        |- WebUtils
        |- QuestManager
-
+```
   **Above structure only shows relevant files in hierarchy**
 
 ## 🚀 Download APK
