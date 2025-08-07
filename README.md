@@ -1,6 +1,6 @@
 # 🎮 Bakeland: Solana Mobile Experience
 
-## 📱 Solana Mobile Hackathon Submission
+## Solana Mobile Hackathon Submission
 
 ## 🎯 Project Overview
 
@@ -24,9 +24,12 @@ Bakeland is a revolutionary mobile gaming experience built specifically for the 
 - **Audience Engagement**: Provides meaningful ways for communities to interact with their favorite tokens
 - **Cross-Platform Compatibility**: Seamless integration across mobile devices
 
+---
 
 ## 🚀 Download APK
 **[Download Bakeland APK for Android](https://drive.google.com/file/d/1YVbbIGzrswbm1FrD78a6BI5-qfINVVCp/view?usp=sharing)**
+
+---
 
 ## Structure
   ```bash
