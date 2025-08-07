@@ -175,7 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Team**: @pharoxe | @Rushya | @frare
-- **Discord**: @pharoxe.eth | @_rusha._. | @frare
+- **Discord**: [pharoxe](https://discord.com/users/pharoxe.eth) | [Rushya](https://discord.com/users/_rusha._) | [Frare](https://discord.com/users/frare)
 
 ---
 
