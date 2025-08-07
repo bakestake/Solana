@@ -145,23 +145,6 @@ Bakeland is a revolutionary mobile gaming experience built specifically for the 
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-### **Development Guidelines**
-- Follow Unity coding standards
-- Implement comprehensive error handling
-- Add unit tests for new features
-- Document all API integrations
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
