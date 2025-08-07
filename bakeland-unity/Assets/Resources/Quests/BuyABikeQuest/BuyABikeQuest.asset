@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 294185b0eafd7954bb208b6f004d2616, type: 3}
+  m_Name: BuyABikeQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: BuyABikeQuest
+  displayName: Ready, Set, Go!
+  questStartDialogue: {fileID: 11400000, guid: 0e62e94366b2da34997cf8942a3c0a5c, type: 2}
+  questProgressDialogue: {fileID: 11400000, guid: e636222f3cf16b04ab94604401e3e9cb, type: 2}
+  questFinishDialogue: {fileID: 11400000, guid: 164dee976f69fda4482cda0f7725e968, type: 2}
+  questPrerequisites:
+  - {fileID: 11400000, guid: 5bbe121d87921b4458e5a0c8ead79877, type: 2}
+  questStepPrefabs:
+  - {fileID: 8306707433700245545, guid: 23611548c788ede4ead667d10949155f, type: 3}
+  goldReward: 0
+  itemReward: {fileID: 11400000, guid: 637c8353ee1b28749b2b5db7a476038e, type: 2}
+  itemRewardAmount: 1

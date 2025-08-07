@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: Step8
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  messages:
+  - actorId: 0
+    message: Well we had to leave the best for last. If you got the guts, or maybe
+      just a lot of $BUDS, head to the Arena.
+  - actorId: 0
+    message: You can wager your $BUDS and throw down against other chain-maxis and
+      degens.
+  - actorId: 0
+    message: Fight for your chain, earn some instant rewards, and, like, bask in
+      the glory, man.
+  - actorId: 0
+    message: "It\u2019s pretty intense, though. Might wanna stretch first... I dunno,
+      just a thought."
+  actors:
+  - Name: Puff the Bear
+    sprite: {fileID: 0}
+    color: {r: 0.11320752, g: 0.11202086, b: 0.11053753, a: 1}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: QuestStartDialogue
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  messages:
+  - actorId: 0
+    message: "Did you hear a fellow bera\u2019s gone missing? Some say he was last
+      seen heading into the forest..."
+  - actorId: 1
+    message: "I found something terrible in Bozito\u2019s cave\u2026"
+  - actorId: 0
+    message: Wait..what did you see?
+  - actorId: 1
+    message: Bozito murdered a bear. I found the body and this chainsaw covered in
+      blood.
+  - actorId: 0
+    message: "There\u2019s no way he\u2019s getting away with! Bozito must be dealt
+      with."
+  - actorId: 0
+    message: "Meet me at the cave entrance, and we\u2019ll confront him together."
+  actors:
+  - Name: Yeetio
+    sprite: {fileID: 0}
+    color: {r: 0.9921569, g: 0.74509805, b: 0.35686275, a: 1}
+  - Name: You
+    sprite: {fileID: 0}
+    color: {r: 0.16037738, g: 0.16037738, b: 0.16037738, a: 1}

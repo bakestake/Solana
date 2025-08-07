@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 044e7a755180e164fa0e112070a05e15, type: 3}
+  m_Name: DrunkBuff
+  m_EditorClassIdentifier: 
+  buffName: Cloud 9
+  description: A hazy, mellow vibe that distorts your senses and slows your reflexes.
+  icon: {fileID: -796662428, guid: 58bfbe9b5ea699b4c9eacbc835e917e9, type: 3}
+  defaultDuration: 5
+  isDebuff: 1
+  buffEffect: {fileID: 11400000, guid: d6cc28d02042f9b40967fbdefc222adf, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: Step2
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  messages:
+  - actorId: 0
+    message: This here is the Farm. It's where the magic happens, ya know? You got
+      your $BUDS? Good, good. You can plant 'em here. It's like... you're growing
+      your stash, man.
+  - actorId: 0
+    message: For every $BUDS you plant, you'll get these fancy $stBUDS back. Think
+      of 'em like... uh... treasury bills you can buy stuff with.
+  - actorId: 0
+    message: The more you plant, the more you grow. It's the circle of life, man.
+  - actorId: 0
+    message: Go on ahead! Put some of that $BUDS in the farm. You'll thank me later.
+  actors:
+  - Name: Puff the Bear
+    sprite: {fileID: 0}
+    color: {r: 0.11320752, g: 0.11202086, b: 0.11053753, a: 1}

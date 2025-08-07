@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: Succubus
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  messages:
+  - actorId: 0
+    message: "Poor little bear\u2026 Forced to slaughter your own kind."
+  - actorId: 0
+    message: How does it feel, knowing their blood is on your paws?
+  - actorId: 0
+    message: "I\u2019ll be keeping an eye on you. Until next time."
+  actors:
+  - Name: Succubus
+    sprite: {fileID: 0}
+    color: {r: 0.3019608, g: 0.19215688, b: 0.45098042, a: 1}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 294185b0eafd7954bb208b6f004d2616, type: 3}
+  m_Name: AltarOfTheDeadQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: AltarOfTheDeadQuest
+  displayName: Altar of the Dead
+  questStartDialogue: {fileID: 11400000, guid: 9d4d6551923f931458e3971e35c4c60d, type: 2}
+  questProgressDialogue: {fileID: 11400000, guid: 30d5655c987493344964a9fd08d18780, type: 2}
+  questFinishDialogue: {fileID: 11400000, guid: c7f2a045ea8f04e46839b527db073a6a, type: 2}
+  questPrerequisites:
+  - {fileID: 11400000, guid: fda237ecda5f601499364bdc44df14db, type: 2}
+  questStepPrefabs:
+  - {fileID: 8422484536132127689, guid: ec02c13a6c2cdfa43b1137c1380f2873, type: 3}
+  - {fileID: 8422484536132127689, guid: fde4686c93bd49f4da436de736cf2f3c, type: 3}
+  - {fileID: 8422484536132127689, guid: 82e2d0f0d9547a2408458f1327982303, type: 3}
+  - {fileID: 8422484536132127689, guid: b624d9604c25a01478c0d1a6c0029c7e, type: 3}
+  goldReward: 0
+  itemReward: {fileID: 0}
+  itemRewardAmount: 0

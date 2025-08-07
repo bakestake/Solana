@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a3fa1d78f51904b935dc47f386a5b4, type: 3}
+  m_Name: Step3
+  m_EditorClassIdentifier: 
+  isRandom: 0
+  messages:
+  - actorId: 0
+    message: Now, this place, man... This is where things get a little... edgy. The
+      Police Station. But don't let the name fool ya. It's not all about rules and
+      regulations.
+  - actorId: 0
+    message: Nah, here, you can use your $BUDS to, uh... *initiate raids*. Sounds
+      intense, huh? But really, it's just a way to take a big ol' bite outta someone
+      else's farm.
+  - actorId: 0
+    message: Seize the day... or, you know, their stash. Just remember, man, karma's
+      a thing.
+  - actorId: 0
+    message: Now think of that last chain-maxi who said shit about the Beras, and
+      go raid the shit outta them.
+  actors:
+  - Name: Puff the Bear
+    sprite: {fileID: 0}
+    color: {r: 0.11320752, g: 0.11202086, b: 0.11053753, a: 1}
