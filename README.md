@@ -2,6 +2,21 @@
 
 ## 📱 Solana Mobile Hackathon Submission
 
+## Structure
+
+  bakeland-unit
+  |-...
+  |-...
+  |- Assets
+     |- ...
+     |- Scripts
+       |- ApiCalls
+       |- ...
+       |- WebUtils
+       |- QuestManager
+
+  **Above structure only shows relevant files in hierarchy**
+
 ## 🚀 Download APK
 **[Download Bakeland APK for Android](https://drive.google.com/file/d/1YVbbIGzrswbm1FrD78a6BI5-qfINVVCp/view?usp=sharing)**
 
