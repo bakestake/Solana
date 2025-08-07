@@ -2,30 +2,6 @@
 
 ## 📱 Solana Mobile Hackathon Submission
 
-## Structure
-  ```bash
-  bakeland-unit
-  |-...
-  |-...
-  |- Assets
-     |- ...
-     |- Scripts
-       |- ApiCalls
-       |- ...
-       |- WebUtils
-          |- WalletConnectScript.cs
-       |- QuestManager
-```
-  **Above structure only shows relevant files in hierarchy**
-  - **ApiCalls** - Contains logic to mint assets through **GameShift**
-  - **Web3Utils** - Contains logic to initiate wallets using solana unity SDK (WalletConnectScript)
-  - **QuestManager** - Contains logic to handle quests in the game
-
-## 🚀 Download APK
-**[Download Bakeland APK for Android](https://drive.google.com/file/d/1YVbbIGzrswbm1FrD78a6BI5-qfINVVCp/view?usp=sharing)**
-
----
-
 ## 🎯 Project Overview
 
 Bakeland is a revolutionary mobile gaming experience built specifically for the Solana ecosystem, showcasing the storytelling potential of blockchain gaming while engaging communities in fun and meaningful ways.
@@ -47,6 +23,29 @@ Bakeland is a revolutionary mobile gaming experience built specifically for the 
 - **Token Sink Mechanics**: Demonstrates how communities with on-chain items can use Bakeland for gamified token sinks
 - **Audience Engagement**: Provides meaningful ways for communities to interact with their favorite tokens
 - **Cross-Platform Compatibility**: Seamless integration across mobile devices
+
+
+## 🚀 Download APK
+**[Download Bakeland APK for Android](https://drive.google.com/file/d/1YVbbIGzrswbm1FrD78a6BI5-qfINVVCp/view?usp=sharing)**
+
+## Structure
+  ```bash
+  bakeland-unit
+  |-...
+  |-...
+  |- Assets
+     |- ...
+     |- Scripts
+       |- ApiCalls
+       |- ...
+       |- WebUtils
+          |- WalletConnectScript.cs
+       |- QuestManager
+```
+  **Above structure only shows relevant files in hierarchy**
+  - **ApiCalls** - Contains logic to mint assets through **GameShift**
+  - **Web3Utils** - Contains logic to initiate wallets using solana unity SDK (WalletConnectScript)
+  - **QuestManager** - Contains logic to handle quests in the game
 
 ---
 
